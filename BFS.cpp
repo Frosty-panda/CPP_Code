@@ -46,6 +46,7 @@ int main(){
 	root->left = new Node(2);
 	root->left->left = new Node(4);
 	root->left->right = new Node(5);
+	root->left->right->right = new Node(8);
 	
 	Solution object;
 	

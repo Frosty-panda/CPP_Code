@@ -2,6 +2,7 @@
 
 using namespace std;
 
+
 class Add{
 	public:
 		Add(int i=0){
